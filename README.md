@@ -1,7 +1,7 @@
 # BART Summarization Exploration
 
 This mini-project explores abstractive summarization using a pretrained transformer model,
-`facebook/bart-large-cnn`, applied to a real-world long-form science article about [penguins and pumas](https://www.nytimes.com/2025/12/16/science/penguins-pumas-patagonia.html_in Patagonia from *The New York Times*. Check out the [model card](https://huggingface.co/facebook/bart-large-cnn) on Hugging Face.
+`facebook/bart-large-cnn`, applied to a real-world long-form science article about [penguins and pumas](https://www.nytimes.com/2025/12/16/science/penguins-pumas-patagonia.html_) in Patagonia from *The New York Times*. Check out the [model card](https://huggingface.co/facebook/bart-large-cnn) on Hugging Face.
 
 The goal is not to optimize summarization quality, but to understand **where and why a strong pretrained model breaks** when applied outside its training distribution.
 
